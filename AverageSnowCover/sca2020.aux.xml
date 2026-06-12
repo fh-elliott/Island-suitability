@@ -1,0 +1,26 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>sca2020int-1</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>10000</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>117450|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1260|2412|2252|2104|1957|1884|1842|1811|1597|1561|1420|1474|1543|1346|1308|1259|1177|1087|1075|1077|973|991|983|867|893|779|769|795|742|726|765|640|666|611|643|630|593|561|605|547|558|492|516|542|536|464|487|483|422|465|430|428|366|396|442|392|361|459|364|380|367|376|366|312|368|321|328|298|278|309|335|278|252|279|244|273|285|254|266|270|282|257|250|257|233|291|224|209|246|180|235|256|192|187|196|231|163|206|152|175|158|132|129|154|122|160|153|136|128|127|108|127|142|135|99|105|82|91|105|107|91|65|71|93|64|63|80|43|65|57|45|46|54|48|45|52|31|40|25|31|41|32|42|27|19|25|17|27|23|24|18|20|19|21|14|12|13|11|9|12|20|6|6|7|7|9|3|4|6|2|2|5|6|1|14|0|2|7|0|6|3|2|0|2|3|3|1|6|1|6|4|2|2|6|4|1|0|3|2|1|1|4|0|2|4|0|4|0|7|0|1|1|1|2|0|2|4|0|1|1|4|1|6|0|5|3|2|4|1|5|25</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="BandName">sca2020int-1</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+      <MDI key="STATISTICS_COUNT">187430.000000</MDI>
+      <MDI key="STATISTICS_MEDIAN">nan</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

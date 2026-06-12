@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20260219</CreaDate><CreaTime>18385600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Raster Calculator" ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\RasterCalculator" Date="20260219" Time="183856">RasterCalculator "("sca2019"/10000) * 100" Z:\Geog222\QueryAnalysis\SCA_Output\sca2019p</Process></lineage></DataProperties></Esri></metadata>

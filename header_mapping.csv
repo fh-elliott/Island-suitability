@@ -1,0 +1,36 @@
+NewHeader,Description
+GEOUID,GEO UID
+CensusTrac,Census Tract name
+Population,"Population, 2021"
+Populati1,"Population percentage change, 2016 to 2021"
+Age0to14ye,Age 0 to 14 years
+Age15to64y,Age 15 to 64 years
+Age65years,Age 65 years and over
+Averagehou,Average household size
+Mediantota,Median total income in 2020 among recipients ($)
+Medianafte,Median after-tax income in 2020 among recipients ($)
+Spending30,Spending <30% of income on shelter costs
+Spending1,Spending >=30% of income on shelter costs
+Nocertific,"No certificate, diploma or degree"
+Highschool,High school diploma or equivalency certificate
+Postsecond,"Postsecondary certificate, diploma or degree"
+Visualandp,"Visual and performing arts, and communications technologies"
+Education,Education
+Humanities,Humanities
+Socialandb,Social and behavioural sciences and law
+Businessma,"Business, management and public administration"
+Physicalan,Physical and life sciences and technologies
+Mathematic,"Mathematics, computer and information sciences"
+Architectu,"Architecture, engineering, and related trades"
+Agricultur,"Agriculture, natural resources and conservation"
+Healthandr,Health and related fields
+Personalpr,"Personal, protective and transportation services"
+Commutebyc,"Commute by car, truck or van"
+Commutebyp,Commute by public transit
+Commutebyw,Commute by walking
+Commutebyb,Commute by bicycle
+Commutedur,Commute duration <15 minutes
+Commuted1,Commute duration 15 to 29 minutes
+Commuted2,Commute duration 30 to 44 minutes
+Commuted3,Commute duration 45 to 59 minutes
+Commuted4,Commute duration 60 minutes and over
