@@ -6,4 +6,4 @@ This project evaluates land suitability across Vancouver Island using multiple e
 The final output is a map visualization created in ArcGIS.
 
 ### Suitability Map
-![Vancouver Island Suitability Map](Snowmap.jpg)
+![Vancouver Island Suitability Map](SnowMap.jpg)
